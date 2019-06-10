@@ -19,7 +19,7 @@ public interface IASRFields {
 		//WordGrams
 		WG1			= "WG1", 	//Terminal
 		WG2			= "WG2",	//Pair
-		WG3			= "WG4",	//Triple
+		WG3			= "WG3",	//Triple
 		WG4			= "WG4",	//Quad
 		WG5			= "WG5",	//Fiver
 		WG6			= "WG6",	//Sixer
