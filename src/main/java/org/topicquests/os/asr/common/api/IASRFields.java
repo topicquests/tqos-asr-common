@@ -25,6 +25,9 @@ public interface IASRFields {
 		WG6			= "WG6",	//Sixer
 		WG7			= "WG7",	//Sevener
 		WG8			= "WG8",	//Eighter
+		//WordGram Edges
+		WGEI		= "WGEI",   //IsA Edge
+		WGEC		= "WGEC",   //Cause Edge
 		//Documents
 		DOCS_IMPORTED	= "DOCI",
 		DOCS_READ		= "DOCR",

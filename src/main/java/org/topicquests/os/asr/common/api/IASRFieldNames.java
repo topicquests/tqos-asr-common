@@ -23,6 +23,9 @@ public interface IASRFieldNames {
 	WG6			= "Number of WordGrams Size 6",	//Sixer
 	WG7			= "Number of WordGrams Size 7",	//Sevener
 	WG8			= "Number of WordGrams Size 7",	//Eighter
+	//WordGram Edges
+	WGEI		= "Number of IsA Edges",   //IsA Edge
+	WGEC		= "Number of Cause Edges",   //Cause Edge
 	//Documents
 	DOCS_IMPORTED	= "Number of Documents Imported",
 	DOCS_READ		= "Number of Documents Read",
