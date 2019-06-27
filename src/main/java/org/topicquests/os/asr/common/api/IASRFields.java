@@ -25,6 +25,10 @@ public interface IASRFields {
 		WG6			= "WG6",	//Sixer
 		WG7			= "WG7",	//Sevener
 		WG8			= "WG8",	//Eighter
+		WG9			= "WG9",	//Niner Label
+		WG10		= "WG10",	//Tenner Label
+		WG11		= "WG11",	//Elevener Label
+		WG12		= "WG12",	//Twelver Label
 		//WordGram Edges
 		WGEI		= "WGEI",   //IsA Edge
 		WGEC		= "WGEC",   //Cause Edge

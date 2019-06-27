@@ -22,7 +22,11 @@ public interface IASRFieldNames {
 	WG5			= "Number of WordGrams Size 5",	//Fiver
 	WG6			= "Number of WordGrams Size 6",	//Sixer
 	WG7			= "Number of WordGrams Size 7",	//Sevener
-	WG8			= "Number of WordGrams Size 7",	//Eighter
+	WG8			= "Number of WordGrams Size 8",	//Eighter
+	WG9			= "Number of WordGrams Size 9",	//Niner Label
+	WG10		= "Number of WordGrams Size 10",	//Tenner Label
+	WG11		= "Number of WordGrams Size 11",	//Elevener Label
+	WG12		= "Number of WordGrams Size 12",	//Twelver Label
 	//WordGram Edges
 	WGEI		= "Number of IsA Edges",   //IsA Edge
 	WGEC		= "Number of Cause Edges",   //Cause Edge
