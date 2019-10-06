@@ -32,6 +32,9 @@ public interface IASRFields {
 		//WordGram Edges
 		WGEI		= "WGEI",   //IsA Edge
 		WGEC		= "WGEC",   //Cause Edge
+		WGEM		= "WGEM",   //Member Edge
+		WGEP		= "WGEP",	//Part Edge
+		WGES		= "WGES",	//Substance Edge
 		//Documents
 		DOCS_IMPORTED	= "DOCI",
 		DOCS_READ		= "DOCR",
@@ -40,6 +43,7 @@ public interface IASRFields {
 		SENTS_READ		= "SENTR",
 		//TUPLES
 		TUPLES_FOUND	= "TUPS",
+		SEM_TUPLE		= "SEMTUP", //Semantic tuple
 		//Topics
 		TOPICS			= "TOPS",
 		//Conceptual Graphs
